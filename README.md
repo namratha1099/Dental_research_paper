@@ -1,7 +1,7 @@
 # Dental Research Paper
 
 ## Overview
-This repository contains published research paper regarding dental x-ray analysis with topics involving neural networks, transfer learning algorithms. Below provided summary with text and citation details.
+This repository contains published paper regarding dental x-ray analysis with topics involving neural networks, transfer learning algorithms. Below provided summary with text and citation details.
 
 ### 1. [Dental X-ray Analysis](http://ijatca.com/archives/Volume8/Number1/sm21080110)
 - **Published:** IJATCA/Volume 8, 2021
